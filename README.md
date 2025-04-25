@@ -1,4 +1,4 @@
-[![MasterHead](https://yazilimgelistirici.subu.edu.tr/storage/55/conversions/yazilim-meslegindeki-farkli-uzmanlik-alanlari-image.jpg)
+![MasterHead](https://yazilimgelistirici.subu.edu.tr/storage/55/conversions/yazilim-meslegindeki-farkli-uzmanlik-alanlari-image.jpg)
 
 <h1 align="center">Hi 👋, I'm Simar</h1>
 <h3 align="center">A passionate product manager from Türkiye</h3>
@@ -18,3 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simarergin&show_icons=true&locale=en" alt="simarergin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simarergin&" alt="simarergin" /></p>
+
+
+
+![snake gif](https://github.com/simarergin/simarergin/blob/output/github-contribution-grid-snake.gif)
