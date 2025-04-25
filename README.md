@@ -1,4 +1,4 @@
-![MasterHead](https://yazilimgelistirici.subu.edu.tr/storage/55/conversions/yazilim-meslegindeki-farkli-uzmanlik-alanlari-image.jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMnXVyKoPe0EhFrybwVbFO1oO17AmI7QpvQ&s)
 
 <h1 align="center">Hi 👋, I'm Simar</h1>
 <h3 align="center">Management Information Systems student passionate about Product Management, Data Science and Software Developer</h3>
