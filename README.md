@@ -1,6 +1,6 @@
 <p align="center">Hello! I'm Simar. I graduated from Management Information Systems. I am improving myself in Product Management, Data Science and Software.</p>
 
-- 📫 How to reach me **simarergin@hotmail.com**
+- 📫 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
